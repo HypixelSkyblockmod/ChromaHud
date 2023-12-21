@@ -13,4 +13,4 @@ How to use?
 - Once minecraft is launched press the right control (ctrl) key, and itll open up a GUI. Enjoy. 
 
 Download
-- [DownloadLink](https://github.com/HypixelSkyblockmod/ChromHud/releases/tag/release)
+- [DownloadLink](https://github.com/HypixelSkyblockmod/ChromaHud/releases/tag/release)
